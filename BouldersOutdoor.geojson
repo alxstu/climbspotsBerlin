@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Schillerpark",
+        "URL": "",
+        "ADRESS1": "Indische Straße",
+        "CITY": "Berlin",
+        "ZIP": 13347,
+        "DISTRICT": "Wedding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.351961374282837,
+          52.55717708400893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "SWK-Block",
+        "URL": "",
+        "ADRESS1": "Grüntaler Str. 25",
+        "CITY": "Berlin",
+        "DISTRICT": "Wedding",
+        "ZIP": 13357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.389742970466614,
+          52.554346095657344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Malmöer Straße",
+        "URL": "",
+        "ADRESS1": "Malmöer Str. 12",
+        "CITY": "Berlin",
+        "ZIP": 10439,
+        "DISTRICT": "Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40426445007324,
+          52.55212814307756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pappelallee",
+        "ADRESS1": "Pappelallee 76",
+        "CITY": "Berlin",
+        "ZIP": 10437,
+        "DISTRICT": "Prenzlauer Berg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41492086648941,
+          52.543780460839805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Strelitzer Straße",
+        "DISTRICT": "Mitte",
+        "ZIP": 10115,
+        "ADRESS1": "Strelitzer Straße. 12",
+        "CITY": "Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396164178848267,
+          52.53527456563112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Volkspark Friedrichshain",
+        "URL": "",
+        "ADRESS1": "Danziger Str.",
+        "CITY": "Berlin",
+        "DISTRICT": "Friedrichshain",
+        "ZIP": 10407
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.441262841224669,
+          52.528078994964545
+        ]
+      }
+    }
+  ]
+}

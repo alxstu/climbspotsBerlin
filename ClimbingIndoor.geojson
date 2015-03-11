@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "NAME": "DAV Kletterzentrum",
+        "URL": "http://kletterzentrum.dav-berlin.de",
+        "ADRESS1": "Seydlitzstraße 1",
+        "CITY": "Berlin",
+        "ZIP": 10557,
+        "DISTRICT": "Moabit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.362633883953094,
+          52.52847225275161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "T-Hall",
+        "URL": "http://www.t-hall.de",
+        "ADRESS1": "Thiemannstraße 1",
+        "CITY": "Berlin",
+        "ZIP": 12059,
+        "DISTRICT": "Neukölln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.451417684555054,
+          52.47942169014486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Magic Mountain",
+        "ADRESS1": "Böttgerstraße 20-26",
+        "ZIP": 13357,
+        "CITY": "Berlin",
+        "URL": "http://www.magicmountain.de",
+        "DISTRICT": "Wedding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.381980657577515,
+          52.548650950609165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "URL": "http://www.derkegel.de",
+        "NAME": "Der Kegel",
+        "ADRESS1": "Revaler Str. 99",
+        "CITY": "Berlin",
+        "ZIP": 10245,
+        "DISTRICT": "Friedrichshain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45445394515991,
+          52.507118646462544
+        ]
+      }
+    }
+  ]
+}

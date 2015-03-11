@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Schwerdter Nordwand",
+        "URL": "",
+        "ADRESS1": "Schwerdter Straße",
+        "CITY": "Berlin",
+        "ZIP": 10435,
+        "DISTRICT": "Mitte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399583995342255,
+          52.548836886259316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Großer Bunker",
+        "ADRESS1": "Humboldthain",
+        "DISTRICT": "Wedding",
+        "CITY": "Berlin",
+        "ZIP": 13355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.384743332862852,
+          52.547411359476804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kleiner Bunker",
+        "URL": "",
+        "ADRESS1": "Gustav - Mayer - Allee",
+        "CITY": "Berlin",
+        "ZIP": 13355,
+        "DISTRICT": "Wedding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.387138545513153,
+          52.54411485534667
+        ]
+      }
+    }
+  ]
+}
