@@ -9,7 +9,8 @@
         "ADRESS1": "Hauptstrasse 13",
         "CITY": "Berlin",
         "ZIP": 10317,
-        "DISTRICT": "Lichtenberg"
+        "DISTRICT": "Lichtenberg",
+        "sectionID": "bi"
       },
       "geometry": {
         "type": "Point",
@@ -22,12 +23,13 @@
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Südbloc",
+        "NAME": "Suedbloc",
         "URL": "http://www.suedbloc.de",
-        "ADRESS1": "Großbeerenstraße 2–10",
+        "ADRESS1": "GroÃbeerenstraÃe 2â10",
         "CITY": "Berlin",
         "ZIP": 12107,
-        "DISTRICT": "Mariendorf"
+        "DISTRICT": "Mariendorf",
+        "sectionID": "bi"
       },
       "geometry": {
         "type": "Point",
@@ -42,10 +44,11 @@
       "properties": {
         "NAME": "Berta Bloc",
         "URL": "http://www.bertablock.de",
-        "ADRESS1": "Mühlenstr. 62",
+        "ADRESS1": "MÃ¼hlenstr. 62",
         "CITY": "Berlin",
         "ZIP": 13187,
-        "DISTRICT": "Wedding"
+        "DISTRICT": "Wedding",
+        "sectionID": "bi"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +66,8 @@
         "ADRESS1": "Berliner Str. 46",
         "CITY": "Berlin",
         "ZIP": 10713,
-        "DISTRICT": "Wilmersdorf"
+        "DISTRICT": "Wilmersdorf",
+        "sectionID": "bi"
       },
       "geometry": {
         "type": "Point",
@@ -78,10 +82,11 @@
       "properties": {
         "NAME": "Bright Site",
         "URL": "http://www.boulder-project.de",
-        "ADRESS1": "Wilhelm-Kabus-Straße 40",
+        "ADRESS1": "Wilhelm-Kabus-StraÃe 40",
         "CITY": "Berlin",
         "ZIP": 10829,
-        "DISTRICT": "Schöneberg"
+        "DISTRICT": "SchÃ¶neberg",
+        "sectionID": "bi"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +104,8 @@
         "ADRESS1": "Revaler Str. 99",
         "CITY": "Berlin",
         "ZIP": 10245,
-        "DISTRICT": "Friedrichshain"
+        "DISTRICT": "Friedrichshain",
+        "sectionID": "bi"
       },
       "geometry": {
         "type": "Point",
