@@ -9,7 +9,8 @@
         "ADRESS1": "Schwerdter Straße",
         "CITY": "Berlin",
         "ZIP": 10435,
-        "DISTRICT": "Mitte"
+        "DISTRICT": "Mitte",
+        "sectionID": "co"
       },
       "geometry": {
         "type": "Point",
@@ -26,7 +27,8 @@
         "ADRESS1": "Humboldthain",
         "DISTRICT": "Wedding",
         "CITY": "Berlin",
-        "ZIP": 13355
+        "ZIP": 13355,
+        "sectionID": "co"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +46,8 @@
         "ADRESS1": "Gustav - Mayer - Allee",
         "CITY": "Berlin",
         "ZIP": 13355,
-        "DISTRICT": "Wedding"
+        "DISTRICT": "Wedding",
+        "sectionID": "co"
       },
       "geometry": {
         "type": "Point",
