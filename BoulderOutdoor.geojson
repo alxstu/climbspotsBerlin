@@ -9,7 +9,8 @@
         "ADRESS1": "Indische Straße",
         "CITY": "Berlin",
         "ZIP": 13347,
-        "DISTRICT": "Wedding"
+        "DISTRICT": "Wedding",
+        "sectionID": "bo"
       },
       "geometry": {
         "type": "Point",
@@ -27,7 +28,8 @@
         "ADRESS1": "Grüntaler Str. 25",
         "CITY": "Berlin",
         "DISTRICT": "Wedding",
-        "ZIP": 13357
+        "ZIP": 13357,
+        "sectionID": "bo"
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +47,8 @@
         "ADRESS1": "Malmöer Str. 12",
         "CITY": "Berlin",
         "ZIP": 10439,
-        "DISTRICT": "Prenzlauer Berg"
+        "DISTRICT": "Prenzlauer Berg",
+        "sectionID": "bo"
       },
       "geometry": {
         "type": "Point",
@@ -62,7 +65,8 @@
         "ADRESS1": "Pappelallee 76",
         "CITY": "Berlin",
         "ZIP": 10437,
-        "DISTRICT": "Prenzlauer Berg"
+        "DISTRICT": "Prenzlauer Berg",
+        "sectionID": "bo"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +83,8 @@
         "DISTRICT": "Mitte",
         "ZIP": 10115,
         "ADRESS1": "Strelitzer Straße. 12",
-        "CITY": "Berlin"
+        "CITY": "Berlin",
+        "sectionID": "bo"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +102,8 @@
         "ADRESS1": "Danziger Str.",
         "CITY": "Berlin",
         "DISTRICT": "Friedrichshain",
-        "ZIP": 10407
+        "ZIP": 10407,
+        "sectionID": "bo"
       },
       "geometry": {
         "type": "Point",
