@@ -23,7 +23,7 @@
     {
       "type": "Feature",
       "properties": {
-        "NAME": "Suedbloc",
+        "NAME": "Südbloc",
         "URL": "http://www.suedbloc.de",
         "ADRESS1": "Großbeerenstr. 2",
         "CITY": "Berlin",
@@ -112,6 +112,25 @@
         "coordinates": [
           13.454448580741882,
           52.50713170694858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "BoulderKlub Kreuzberg",
+        "URL": "http://boulderklub.de/",
+        "ADRESS1": "Ohlauer Str. 38",
+        "CITY": "Berlin",
+        "ZIP": 10999,
+        "DISTRICT": "Kreuzberg",
+        "sectionID": "bi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.428632318973541,
+          52.495098089071305
         ]
       }
     }
