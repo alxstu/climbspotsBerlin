@@ -10,7 +10,8 @@
         "ADRESS1": "Seydlitzstraße 1",
         "CITY": "Berlin",
         "ZIP": 10557,
-        "DISTRICT": "Moabit"
+        "DISTRICT": "Moabit",
+        "sectionID": "ci"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +29,8 @@
         "ADRESS1": "Thiemannstraße 1",
         "CITY": "Berlin",
         "ZIP": 12059,
-        "DISTRICT": "Neukölln"
+        "DISTRICT": "Neukölln",
+        "sectionID": "ci"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +48,8 @@
         "ZIP": 13357,
         "CITY": "Berlin",
         "URL": "http://www.magicmountain.de",
-        "DISTRICT": "Wedding"
+        "DISTRICT": "Wedding",
+        "sectionID": "ci"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +67,8 @@
         "ADRESS1": "Revaler Str. 99",
         "CITY": "Berlin",
         "ZIP": 10245,
-        "DISTRICT": "Friedrichshain"
+        "DISTRICT": "Friedrichshain",
+        "sectionID": "ci"
       },
       "geometry": {
         "type": "Point",
