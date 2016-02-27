@@ -25,7 +25,7 @@
       "properties": {
         "NAME": "Suedbloc",
         "URL": "http://www.suedbloc.de",
-        "ADRESS1": "GroÃbeerenstraÃe 2â10",
+        "ADRESS1": "Großbeerenstr. 2",
         "CITY": "Berlin",
         "ZIP": 12107,
         "DISTRICT": "Mariendorf",
@@ -44,7 +44,7 @@
       "properties": {
         "NAME": "Berta Bloc",
         "URL": "http://www.bertablock.de",
-        "ADRESS1": "MÃ¼hlenstr. 62",
+        "ADRESS1": "Mühlenstr. 62",
         "CITY": "Berlin",
         "ZIP": 13187,
         "DISTRICT": "Wedding",
@@ -82,10 +82,10 @@
       "properties": {
         "NAME": "Bright Site",
         "URL": "http://www.boulder-project.de",
-        "ADRESS1": "Wilhelm-Kabus-StraÃe 40",
+        "ADRESS1": "Wilhelm-Kabus-Strasse 40",
         "CITY": "Berlin",
         "ZIP": 10829,
-        "DISTRICT": "SchÃ¶neberg",
+        "DISTRICT": "Schöneberg",
         "sectionID": "bi"
       },
       "geometry": {
