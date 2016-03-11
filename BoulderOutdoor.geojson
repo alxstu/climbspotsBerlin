@@ -6,7 +6,7 @@
          "properties":{
             "NAME":"Schillerpark",
             "URL":"",
-            "ADRESS1":"Indische Straße",
+            "ADDRESS":"Indische Straße",
             "CITY":"Berlin",
             "ZIP":13347,
             "DISTRICT":"Wedding",
@@ -25,7 +25,7 @@
          "properties":{
             "NAME":"SWK-Block",
             "URL":"",
-            "ADRESS1":"Grüntaler Str. 25",
+            "ADDRESS":"Grüntaler Str. 25",
             "CITY":"Berlin",
             "DISTRICT":"Wedding",
             "ZIP":13357,
@@ -44,7 +44,7 @@
          "properties":{
             "NAME":"Malmöer Straße",
             "URL":"",
-            "ADRESS1":"Malmöer Str. 12",
+            "ADDRESS":"Malmöer Str. 12",
             "CITY":"Berlin",
             "ZIP":10439,
             "DISTRICT":"Prenzlauer Berg",
@@ -62,7 +62,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Pappelallee",
-            "ADRESS1":"Pappelallee 76",
+            "ADDRESS":"Pappelallee 76",
             "CITY":"Berlin",
             "ZIP":10437,
             "DISTRICT":"Prenzlauer Berg",
@@ -82,7 +82,7 @@
             "NAME":"Strelitzer Straße",
             "DISTRICT":"Mitte",
             "ZIP":10115,
-            "ADRESS1":"Strelitzer Straße. 12",
+            "ADDRESS":"Strelitzer Straße. 12",
             "CITY":"Berlin",
             "sectionID":"bo"
          },
@@ -99,7 +99,7 @@
          "properties":{
             "NAME":"Volkspark Friedrichshain",
             "URL":"",
-            "ADRESS1":"Danziger Str.",
+            "ADDRESS":"Danziger Str.",
             "CITY":"Berlin",
             "DISTRICT":"Friedrichshain",
             "ZIP":10407,
@@ -117,7 +117,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Stonehenge Stralauer Allee",
-            "ADRESS1":"Stralauer Allee",
+            "ADDRESS":"Stralauer Allee",
             "CITY":"Berlin",
             "ZIP":10245,
             "DISTRICT":"Friedrichshain",
@@ -136,7 +136,7 @@
          "properties":{
             "NAME":"SE-Block",
             "URL":"",
-            "ADRESS1":"Samariterstrasse. 21",
+            "ADDRESS":"Samariterstrasse. 21",
             "CITY":"Berlin",
             "ZIP":10247,
             "DISTRICT":"Friedrichshain",
@@ -155,7 +155,7 @@
          "properties":{
             "NAME":"Andachtsboulder Levetzowstrasse",
             "URL":"",
-            "ADRESS1":"Levetzowstr. 5",
+            "ADDRESS":"Levetzowstr. 5",
             "CITY":"Berlin",
             "ZIP":10555,
             "DISTRICT":"Moabit",
@@ -174,7 +174,7 @@
          "properties":{
             "NAME":"Skulpturenpark Tiergarten",
             "URL":"",
-            "ADRESS1":"John-Forster-Dulles-Allee",
+            "ADDRESS":"John-Forster-Dulles-Allee",
             "CITY":"Berlin",
             "ZIP":10557,
             "DISTRICT":"Tiergarten",
@@ -193,7 +193,7 @@
          "properties":{
             "NAME":"Grosse Stele Nationalgalerie",
             "URL":"",
-            "ADRESS1":"Reichpietschufer",
+            "ADDRESS":"Reichpietschufer",
             "CITY":"Berlin",
             "ZIP":10785,
             "DISTRICT":"Tiergarten",
@@ -212,7 +212,7 @@
          "properties":{
             "NAME":"Boulderbrücke",
             "URL":"",
-            "ADRESS1":"Marzahner Chaussee",
+            "ADDRESS":"Marzahner Chaussee",
             "CITY":"Berlin",
             "ZIP":10315,
             "DISTRICT":"Marzahn",
@@ -230,7 +230,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Burgwarte Flämingstrasse",
-            "ADRESS1":"Flämingstrasse",
+            "ADDRESS":"Flämingstrasse",
             "CITY":"Berlin",
             "ZIP":12689,
             "DISTRICT":"Marzahn",
@@ -249,7 +249,7 @@
          "properties":{
             "NAME":"Boulderbrücken",
             "URL":"",
-            "ADRESS1":"Wuhlheide",
+            "ADDRESS":"Wuhlheide",
             "CITY":"Berlin",
             "ZIP":12459,
             "DISTRICT":"Köpenick",
@@ -267,7 +267,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Holzturm",
-            "ADRESS1":" Am Eichgestell 161",
+            "ADDRESS":" Am Eichgestell 161",
             "CITY":"Berlin",
             "ZIP":12459,
             "DISTRICT":"Köpenick",
@@ -286,7 +286,7 @@
          "properties":{
             "NAME":"GFK Turm",
             "URL":"",
-            "ADRESS1":" Am Eichgestell 161",
+            "ADDRESS":" Am Eichgestell 161",
             "CITY":"Berlin",
             "ZIP":12459,
             "DISTRICT":"Köpenick",
@@ -304,7 +304,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Teltowkanal",
-            "ADRESS1":"Am Kanal",
+            "ADDRESS":"Am Kanal",
             "CITY":"Berlin",
             "ZIP":12489,
             "DISTRICT":"Adlershof",
@@ -323,7 +323,7 @@
          "properties":{
             "NAME":"Brücke Rudower Fliess",
             "URL":"",
-            "ADRESS1":"Klein-Ziethener Weg 9",
+            "ADDRESS":"Klein-Ziethener Weg 9",
             "CITY":"Berlin",
             "ZIP":12355,
             "DISTRICT":"Neukölln",
@@ -342,7 +342,7 @@
          "properties":{
             "NAME":"Boulderanlage Tempelhofer Weg",
             "URL":"",
-            "ADRESS1":" Tempelhofer Weg",
+            "ADDRESS":" Tempelhofer Weg",
             "ZIP":10829,
             "CITY":"Berlin",
             "DISTRICT":"Schöneberg",
@@ -361,7 +361,7 @@
          "properties":{
             "NAME":"Ayers Rock",
             "URL":"",
-            "ADRESS1":"Richterstraße",
+            "ADDRESS":"Richterstraße",
             "CITY":"Berlin",
             "ZIP":12105,
             "DISTRICT":"Tempelhof",
