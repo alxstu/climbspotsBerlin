@@ -6,7 +6,7 @@
          "properties":{
             "NAME":"Schwerdter Nordwand",
             "URL":"",
-            "ADRESS1":"Schwerdter Straße",
+            "ADDRESS":"Schwerdter Straße",
             "CITY":"Berlin",
             "ZIP":10435,
             "DISTRICT":"Mitte",
@@ -24,7 +24,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Großer Bunker",
-            "ADRESS1":"Humboldthain",
+            "ADDRESS":"Humboldthain",
             "DISTRICT":"Wedding",
             "CITY":"Berlin",
             "ZIP":13355,
@@ -43,7 +43,7 @@
          "properties":{
             "NAME":"Kleiner Bunker",
             "URL":"",
-            "ADRESS1":"Gustav - Mayer - Allee",
+            "ADDRESS":"Gustav - Mayer - Allee",
             "CITY":"Berlin",
             "ZIP":13355,
             "DISTRICT":"Wedding",
@@ -62,7 +62,7 @@
          "properties":{
             "NAME":"Kolle 8",
             "URL":"www.sjc-prenzlauerberg.de",
-            "ADRESS1":"Kollwitzstr. 8",
+            "ADDRESS":"Kollwitzstr. 8",
             "CITY":"Berlin",
             "ZIP":10405,
             "DISTRICT":"Prenzlauer Berg",
@@ -81,7 +81,7 @@
          "properties":{
             "NAME":"Sportjugendclub Buch",
             "URL":"",
-            "ADRESS1":"Karower Chaussee 169C",
+            "ADDRESS":"Karower Chaussee 169C",
             "ZIP":13125,
             "CITY":"Berlin",
             "DISTRICT":"Pankow",
@@ -100,7 +100,7 @@
          "properties":{
             "NAME":"Wühletalwächter",
             "URL":"www.alpinclub-berlin.de",
-            "ADRESS1":"Kemberger Str.",
+            "ADDRESS":"Kemberger Str.",
             "CITY":"Berlin",
             "ZIP":12689,
             "DISTRICT":"Marzahn",
@@ -118,7 +118,7 @@
          "type":"Feature",
          "properties":{
             "NAME":"Wilde Hütte Buckow",
-            "ADRESS1":"Wildhüterweg 2",
+            "ADDRESS":"Wildhüterweg 2",
             "CITY":"Berlin",
             "ZIP":12353,
             "DISTRICT":"Neukölln",
@@ -137,7 +137,7 @@
          "properties":{
             "NAME":"Kirchbachspitze",
             "URL":"www.dav-berlin.de",
-            "ADRESS1":"Alvenslebenstraße",
+            "ADDRESS":"Alvenslebenstraße",
             "CITY":"Berlin",
             "ZIP":10783,
             "DISTRICT":"Schöneberg",
@@ -156,7 +156,7 @@
          "properties":{
             "NAME":"Pallasbunker",
             "URL":"",
-            "ADRESS1":"Pallasstrasse",
+            "ADDRESS":"Pallasstrasse",
             "CITY":"Berlin",
             "ZIP":10781,
             "DISTRICT":"Schöneberg",
