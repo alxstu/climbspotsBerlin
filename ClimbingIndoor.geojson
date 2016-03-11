@@ -6,7 +6,7 @@
       "id": 0,
       "properties": {
         "NAME": "DAV Kletterzentrum",
-        "URL": "http://kletterzentrum.dav-berlin.de",
+        "URL": "www.kletterzentrum.dav-berlin.de",
         "ADRESS1": "Seydlitzstraße 1",
         "CITY": "Berlin",
         "ZIP": 10557,
@@ -25,7 +25,7 @@
       "type": "Feature",
       "properties": {
         "NAME": "T-Hall",
-        "URL": "http://www.t-hall.de",
+        "URL": "www.t-hall.de",
         "ADRESS1": "Thiemannstraße 1",
         "CITY": "Berlin",
         "ZIP": 12059,
@@ -47,7 +47,7 @@
         "ADRESS1": "Böttgerstraße 20-26",
         "ZIP": 13357,
         "CITY": "Berlin",
-        "URL": "http://www.magicmountain.de",
+        "URL": "www.magicmountain.de",
         "DISTRICT": "Wedding",
         "sectionID": "ci"
       },
@@ -62,7 +62,7 @@
     {
       "type": "Feature",
       "properties": {
-        "URL": "http://www.derkegel.de",
+        "URL": "www.derkegel.de",
         "NAME": "Der Kegel",
         "ADRESS1": "Revaler Str. 99",
         "CITY": "Berlin",
