@@ -6,7 +6,7 @@
       "properties": {
         "NAME": "Ostbloc",
         "URL": "www.ostbloc.de",
-        "ADRESS1": "Hauptstrasse 13",
+        "ADDRESS": "Hauptstrasse 13",
         "CITY": "Berlin",
         "ZIP": 10317,
         "DISTRICT": "Lichtenberg",
@@ -25,7 +25,7 @@
       "properties": {
         "NAME": "Südbloc",
         "URL": "www.suedbloc.de",
-        "ADRESS1": "Großbeerenstr. 2",
+        "ADDRESS": "Großbeerenstr. 2",
         "CITY": "Berlin",
         "ZIP": 12107,
         "DISTRICT": "Mariendorf",
@@ -44,7 +44,7 @@
       "properties": {
         "NAME": "Berta Bloc",
         "URL": "www.bertablock.de",
-        "ADRESS1": "Mühlenstr. 62",
+        "ADDRESS": "Mühlenstr. 62",
         "CITY": "Berlin",
         "ZIP": 13187,
         "DISTRICT": "Wedding",
@@ -63,7 +63,7 @@
       "properties": {
         "NAME": "Boulderworx",
         "URL": "www.boulderworx.de",
-        "ADRESS1": "Berliner Str. 46",
+        "ADDRESS": "Berliner Str. 46",
         "CITY": "Berlin",
         "ZIP": 10713,
         "DISTRICT": "Wilmersdorf",
@@ -82,7 +82,7 @@
       "properties": {
         "NAME": "Bright Site",
         "URL": "www.boulder-project.de",
-        "ADRESS1": "Wilhelm-Kabus-Strasse 40",
+        "ADDRESS": "Wilhelm-Kabus-Strasse 40",
         "CITY": "Berlin",
         "ZIP": 10829,
         "DISTRICT": "Schöneberg",
@@ -101,7 +101,7 @@
       "properties": {
         "NAME": "Der Kegel",
         "URL": "www.derkegel.de",
-        "ADRESS1": "Revaler Str. 99",
+        "ADDRESS": "Revaler Str. 99",
         "CITY": "Berlin",
         "ZIP": 10245,
         "DISTRICT": "Friedrichshain",
@@ -120,7 +120,7 @@
       "properties": {
         "NAME": "BoulderKlub Kreuzberg",
         "URL": "www.boulderklub.de",
-        "ADRESS1": "Ohlauer Str. 38",
+        "ADDRESS": "Ohlauer Str. 38",
         "CITY": "Berlin",
         "ZIP": 10999,
         "DISTRICT": "Kreuzberg",
