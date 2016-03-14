@@ -11,7 +11,10 @@
         "CITY": "Berlin",
         "ZIP": 10557,
         "DISTRICT": "Moabit",
-        "sectionID": "ci"
+        "sectionID": "ci",
+        "height": 12,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +33,10 @@
         "CITY": "Berlin",
         "ZIP": 12059,
         "DISTRICT": "Neukölln",
-        "sectionID": "ci"
+        "sectionID": "ci",
+        "height": 12,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +55,10 @@
         "CITY": "Berlin",
         "URL": "www.magicmountain.de",
         "DISTRICT": "Wedding",
-        "sectionID": "ci"
+        "sectionID": "ci",
+        "height": 12,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -68,7 +77,10 @@
         "CITY": "Berlin",
         "ZIP": 10245,
         "DISTRICT": "Friedrichshain",
-        "sectionID": "ci"
+        "sectionID": "ci",
+        "height": 12,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
