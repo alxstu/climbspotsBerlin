@@ -10,7 +10,10 @@
         "CITY": "Berlin",
         "ZIP": 10317,
         "DISTRICT": "Lichtenberg",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +32,10 @@
         "CITY": "Berlin",
         "ZIP": 12107,
         "DISTRICT": "Mariendorf",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -48,7 +54,10 @@
         "CITY": "Berlin",
         "ZIP": 13187,
         "DISTRICT": "Wedding",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +76,10 @@
         "CITY": "Berlin",
         "ZIP": 10713,
         "DISTRICT": "Wilmersdorf",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -86,7 +98,10 @@
         "CITY": "Berlin",
         "ZIP": 10829,
         "DISTRICT": "Schöneberg",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -105,7 +120,10 @@
         "CITY": "Berlin",
         "ZIP": 10245,
         "DISTRICT": "Friedrichshain",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
@@ -124,7 +142,10 @@
         "CITY": "Berlin",
         "ZIP": 10999,
         "DISTRICT": "Kreuzberg",
-        "sectionID": "bi"
+        "sectionID": "bi",
+        "height": 4,
+        "openFrom": 8,
+        "openTill": 20
       },
       "geometry": {
         "type": "Point",
