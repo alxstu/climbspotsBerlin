@@ -130,8 +130,8 @@
     "DISTRICT":"Kreuzberg",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":10,
-    "openTill":22
+    "openFrom":8,
+    "openTill":20
     }
   },
   {
@@ -168,8 +168,8 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":10,
-    "openTill":23
+    "openFrom":8,
+    "openTill":20
     }
   },
   {
@@ -244,8 +244,8 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":10,
-    "openTill":23
+    "openFrom":8,
+    "openTill":20
     }
   },
   {
@@ -637,14 +637,14 @@
     "properties": {
     "NAME":"Südbloc",
     "URL":"www.suedbloc.de",
-    "ADDRESS":"Großbeerenstr. 2",
+    "ADDRESS":"Großbeerenstr. 2",
     "CITY":"Berlin",
     "ZIP":12107,
     "DISTRICT":"Mariendorf",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":10,
-    "openTill":23
+    "openFrom":8,
+    "openTill":20
     }
   },
   {
@@ -905,7 +905,7 @@
     "URL":"",
     "ADDRESS":"Potsdamer Chaussee",
     "CITY":"Berlin",
-    "ZIP":null,
+    "ZIP":14089,
     "DISTRICT":"Spandau",
     "sectionID":"co",
     "height":"10",
@@ -943,7 +943,7 @@
     "URL":"www.dav-berlin.de",
     "ADDRESS":"",
     "CITY":"Berlin",
-    "ZIP":null,
+    "ZIP":14055,
     "DISTRICT":"Wilmersdorf",
     "sectionID":"co",
     "height":"10",
