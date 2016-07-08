@@ -765,7 +765,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.223965,52.285220 ]
+       "coordinates":  [ 13.377500000000001,52.4811111 ]
     },
     "properties": {
     "NAME":"Kalksteinbrücke wolffring",
@@ -784,7 +784,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.241517,52.232826 ]
+       "coordinates":  [ 13.404166666666667,52.3911111 ]
     },
     "properties": {
     "NAME":"Boulderbogen Finchleystrasse",
@@ -803,7 +803,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.16411,52.271468 ]
+       "coordinates":  [ 13.267777777777779,52.4538889 ]
     },
     "properties": {
     "NAME":"DAV-Halle Hüttenweg",
@@ -822,7 +822,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.163572,52.26030 ]
+       "coordinates":  [ 13.27638888888889,52.4333333 ]
     },
     "properties": {
     "NAME":"BoulderBär",
@@ -841,7 +841,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.102647,52.324856 ]
+       "coordinates":  [ 13.173888888888888,52.5466667 ]
     },
     "properties": {
     "NAME":"B.-Traven Schule",
@@ -860,7 +860,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.105676,52.322928 ]
+       "coordinates":  [ 13.182222222222222,52.5413889 ]
     },
     "properties": {
     "NAME":"Boulderwelle Spekteweg",
@@ -879,7 +879,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.91558,52.313146 ]
+       "coordinates":  [ 13.154166666666667,52.5252778 ]
     },
     "properties": {
     "NAME":"Kinderspielplatz Cosmarweg",
@@ -898,7 +898,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.81313,52.29258 ]
+       "coordinates":  [ 13.136944444444444,52.4838889 ]
     },
     "properties": {
     "NAME":"Mount Gatow",
@@ -917,7 +917,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.125727,52.303340 ]
+       "coordinates":  [ 13.215833333333332,52.5091667 ]
     },
     "properties": {
     "NAME":"Stössenseebrücke",
@@ -936,7 +936,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.144221,52.295886 ]
+       "coordinates":  [ 13.245,52.4994444 ]
     },
     "properties": {
     "NAME":"Teufelsberg",
@@ -955,7 +955,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.142425,52.304283 ]
+       "coordinates":  [ 13.239999999999998,52.5116667 ]
     },
     "properties": {
     "NAME":"Olympiastadion",
@@ -974,7 +974,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.174606,52.305224 ]
+       "coordinates":  [ 13.296111111111111,52.5144444 ]
     },
     "properties": {
     "NAME":"Jugendclub Charlottenburg",
@@ -993,7 +993,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.21221,52.355768 ]
+       "coordinates":  [ 13.350555555555555,52.5991667 ]
     },
     "properties": {
     "NAME":"GFK-Wand",
