@@ -1,562 +1,765 @@
-[
- {
-   "NAME": "Andachtsboulder Levetzowstrasse",
-   "URL": "",
-   "ADDRESS": "Levetzowstr. 5",
-   "CITY": "Berlin",
-   "ZIP": 10555,
-   "DISTRICT": "Moabit",
-   "sectionID": "bo",
-   "height": "2,5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.332308828830719,
-   "lat": 52.521641141797055
- },
- {
-   "NAME": "Ayers Rock",
-   "URL": "",
-   "ADDRESS": "Richterstraße",
-   "CITY": "Berlin",
-   "ZIP": 12105,
-   "DISTRICT": "Tempelhof",
-   "sectionID": "bo",
-   "height": "4",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.38558554649353,
-   "lat": 52.44169901651066
- },
- {
-   "NAME": "Berta Bloc",
-   "URL": "www.bertablock.de",
-   "ADDRESS": "Mühlenstr. 62",
-   "CITY": "Berlin",
-   "ZIP": 13187,
-   "DISTRICT": "Wedding",
-   "sectionID": "bi",
-   "height": "4,5",
-   "openFrom": 11,
-   "openTill": 23,
-   "lon": 13.409714698791504,
-   "lat": 52.563529835311925
- },
- {
-   "NAME": "Boulderanlage Tempelhofer Weg",
-   "URL": "",
-   "ADDRESS": " Tempelhofer Weg",
-   "CITY": "Berlin",
-   "ZIP": 10829,
-   "DISTRICT": "Schöneberg",
-   "sectionID": "bo",
-   "height": "3",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.35536241531372,
-   "lat": 52.478395783942766
- },
- {
-   "NAME": "Boulderbrücke",
-   "URL": "",
-   "ADDRESS": "Marzahner Chaussee",
-   "CITY": "Berlin",
-   "ZIP": 10315,
-   "DISTRICT": "Marzahn",
-   "sectionID": "bo",
-   "height": "5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.525779247283936,
-   "lat": 52.51440579458706
- },
- {
-   "NAME": "Boulderbrücken",
-   "URL": "",
-   "ADDRESS": "Wuhlheide",
-   "CITY": "Berlin",
-   "ZIP": 12459,
-   "DISTRICT": "Köpenick",
-   "sectionID": "bo",
-   "height": "5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.540767431259155,
-   "lat": 52.47143597978414
- },
- {
-   "NAME": "BoulderKlub Kreuzberg",
-   "URL": "www.boulderklub.de",
-   "ADDRESS": "Ohlauer Str. 38",
-   "CITY": "Berlin",
-   "ZIP": 10999,
-   "DISTRICT": "Kreuzberg",
-   "sectionID": "bi",
-   "height": "4",
-   "openFrom": 8,
-   "openTill": 20,
-   "lon": 13.428632318973541,
-   "lat": 52.495098089071305
- },
- {
-   "NAME": "Boulderworx",
-   "URL": "www.boulderworx.de",
-   "ADDRESS": "Berliner Str. 46",
-   "CITY": "Berlin",
-   "ZIP": 10713,
-   "DISTRICT": "Wilmersdorf",
-   "sectionID": "bi",
-   "height": "4",
-   "openFrom": 8,
-   "openTill": 20,
-   "lon": 13.318077027797699,
-   "lat": 52.48670199637066
- },
- {
-   "NAME": "Bright Site",
-   "URL": "www.boulder-project.de",
-   "ADDRESS": "Wilhelm-Kabus-Strasse 40",
-   "CITY": "Berlin",
-   "ZIP": 10829,
-   "DISTRICT": "Schöneberg",
-   "sectionID": "bi",
-   "height": "4",
-   "openFrom": 8,
-   "openTill": 20,
-   "lon": 13.36563527584076,
-   "lat": 52.48172172411882
- },
- {
-   "NAME": "Brücke Rudower Fliess",
-   "URL": "",
-   "ADDRESS": "Klein-Ziethener Weg 9",
-   "CITY": "Berlin",
-   "ZIP": 12355,
-   "DISTRICT": "Neukölln",
-   "sectionID": "bo",
-   "height": "5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.476319313049316,
-   "lat": 52.40283780245277
- },
- {
-   "NAME": "Burgwarte Flämingstrasse",
-   "URL": "",
-   "ADDRESS": "Flämingstrasse",
-   "CITY": "Berlin",
-   "ZIP": 12689,
-   "DISTRICT": "Marzahn",
-   "sectionID": "bo",
-   "height": "4",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.56336236000061,
-   "lat": 52.56356244459821
- },
- {
-   "NAME": "DAV Kletterzentrum",
-   "URL": "www.kletterzentrum.dav-berlin.de",
-   "ADDRESS": "Seydlitzstraße 1",
-   "CITY": "Berlin",
-   "ZIP": 10557,
-   "DISTRICT": "Moabit",
-   "sectionID": "ci",
-   "height": "15",
-   "openFrom": 10,
-   "openTill": 23,
-   "lon": 13.362633883953094,
-   "lat": 52.52847225275161
- },
- {
-   "NAME": "Der Kegel",
-   "URL": "www.derkegel.de",
-   "ADDRESS": "Revaler Str. 99",
-   "CITY": "Berlin",
-   "ZIP": 10245,
-   "DISTRICT": "Friedrichshain",
-   "sectionID": "bi",
-   "height": "4",
-   "openFrom": 8,
-   "openTill": 20,
-   "lon": 13.454448580741882,
-   "lat": 52.50713170694858
- },
- {
-   "NAME": "Der Kegel",
-   "URL": "www.derkegel.de",
-   "ADDRESS": "Revaler Str. 99",
-   "CITY": "Berlin",
-   "ZIP": 10245,
-   "DISTRICT": "Friedrichshain",
-   "sectionID": "ci",
-   "height": "18",
-   "openFrom": 10,
-   "openTill": 23,
-   "lon": 13.45445394515991,
-   "lat": 52.507118646462544
- },
- {
-   "NAME": "GFK Turm",
-   "URL": "",
-   "ADDRESS": "Am Eichgestell 161",
-   "CITY": "Berlin",
-   "ZIP": 12459,
-   "DISTRICT": "Köpenick",
-   "sectionID": "co",
-   "height": "8",
-   "openFrom": 8,
-   "openTill": 20,
-   "lon": 13.540273904800415,
-   "lat": 52.460690233557465
- },
- {
-   "NAME": "Grosse Stele Nationalgalerie",
-   "URL": "",
-   "ADDRESS": "Reichpietschufer",
-   "CITY": "Berlin",
-   "ZIP": 10785,
-   "DISTRICT": "Tiergarten",
-   "sectionID": "bo",
-   "height": "6",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.36822360754013,
-   "lat": 52.50660765190018
- },
- {
-   "NAME": "Großer Bunker",
-   "URL": "",
-   "ADDRESS": "Humboldthain",
-   "CITY": "Berlin",
-   "ZIP": 13355,
-   "DISTRICT": "Wedding",
-   "sectionID": "co",
-   "height": "15",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.384743332862852,
-   "lat": 52.547411359476804
- },
- {
-   "NAME": "Holzturm",
-   "URL": "",
-   "ADDRESS": "Am Eichgestell 161",
-   "CITY": "Berlin",
-   "ZIP": 12459,
-   "DISTRICT": "Köpenick",
-   "sectionID": "co",
-   "height": "8",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.54964554309845,
-   "lat": 52.46019831103775
- },
- {
-   "NAME": "Kirchbachspitze",
-   "URL": "www.dav-berlin.de",
-   "ADDRESS": "Alvenslebenstraße",
-   "CITY": "Berlin",
-   "ZIP": 10783,
-   "DISTRICT": "Schöneberg",
-   "sectionID": "co",
-   "height": "12,5",
-   "openFrom": 8,
-   "openTill": 21,
-   "lon": 13.364691138267517,
-   "lat": 52.495664739002436
- },
- {
-   "NAME": "Kleiner Bunker",
-   "URL": "",
-   "ADDRESS": "Gustav - Mayer - Allee",
-   "CITY": "Berlin",
-   "ZIP": 13355,
-   "DISTRICT": "Wedding",
-   "sectionID": "co",
-   "height": "8",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.387138545513153,
-   "lat": 52.54411485534667
- },
- {
-   "NAME": "Kolle 8",
-   "URL": "www.sjc-prenzlauerberg.de",
-   "ADDRESS": "Kollwitzstr. 8",
-   "CITY": "Berlin",
-   "ZIP": 10405,
-   "DISTRICT": "Prenzlauer Berg",
-   "sectionID": "co",
-   "height": "12",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.413982093334198,
-   "lat": 52.531357123371436
- },
- {
-   "NAME": "Magic Mountain",
-   "URL": "www.magicmountain.de",
-   "ADDRESS": "Böttgerstraße 20-26",
-   "CITY": "Berlin",
-   "ZIP": 13357,
-   "DISTRICT": "Wedding",
-   "sectionID": "ci",
-   "height": "16",
-   "openFrom": 12,
-   "openTill": 24,
-   "lon": 13.381980657577515,
-   "lat": 52.548650950609165
- },
- {
-   "NAME": "Malmöer Straße",
-   "URL": "",
-   "ADDRESS": "Malmöer Str. 12",
-   "CITY": "Berlin",
-   "ZIP": 10439,
-   "DISTRICT": "Prenzlauer Berg",
-   "sectionID": "bo",
-   "height": "2,5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.40426445007324,
-   "lat": 52.55212814307756
- },
- {
-   "NAME": "Ostbloc",
-   "URL": "www.ostbloc.de",
-   "ADDRESS": "Hauptstrasse 13",
-   "CITY": "Berlin",
-   "ZIP": 10317,
-   "DISTRICT": "Lichtenberg",
-   "sectionID": "bi",
-   "height": "4,5",
-   "openFrom": 10,
-   "openTill": 23,
-   "lon": 13.489584,
-   "lat": 52.491959
- },
- {
-   "NAME": "Pallasbunker",
-   "URL": "",
-   "ADDRESS": "Pallasstrasse",
-   "CITY": "Berlin",
-   "ZIP": 10781,
-   "DISTRICT": "Schöneberg",
-   "sectionID": "co",
-   "height": "10",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.35563063621521,
-   "lat": 52.49440568846478
- },
- {
-   "NAME": "Pappelallee",
-   "URL": "",
-   "ADDRESS": "Pappelallee 76",
-   "CITY": "Berlin",
-   "ZIP": 10437,
-   "DISTRICT": "Prenzlauer Berg",
-   "sectionID": "bo",
-   "height": "3",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.41492086648941,
-   "lat": 52.543780460839805
- },
- {
-   "NAME": "Schillerpark",
-   "URL": "",
-   "ADDRESS": "Indische Straße",
-   "CITY": "Berlin",
-   "ZIP": 13347,
-   "DISTRICT": "Wedding",
-   "sectionID": "bo",
-   "height": "7",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.351961374282837,
-   "lat": 52.55717708400893
- },
- {
-   "NAME": "Schwerdter Nordwand",
-   "URL": "",
-   "ADDRESS": "Schwerdter Straße",
-   "CITY": "Berlin",
-   "ZIP": 10435,
-   "DISTRICT": "Mitte",
-   "sectionID": "co",
-   "height": "15",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.399583995342255,
-   "lat": 52.548836886259316
- },
- {
-   "NAME": "SE-Block",
-   "URL": "",
-   "ADDRESS": "Samariterstrasse. 21",
-   "CITY": "Berlin",
-   "ZIP": 10247,
-   "DISTRICT": "Friedrichshain",
-   "sectionID": "bo",
-   "height": "3",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.467207849025726,
-   "lat": 52.51991932533701
- },
- {
-   "NAME": "Skulpturenpark Tiergarten",
-   "URL": "",
-   "ADDRESS": "John-Forster-Dulles-Allee",
-   "CITY": "Berlin",
-   "ZIP": 10557,
-   "DISTRICT": "Tiergarten",
-   "sectionID": "bo",
-   "height": "5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.368237018585205,
-   "lat": 52.51661259567853
- },
- {
-   "NAME": "Sportjugendclub Buch",
-   "URL": "",
-   "ADDRESS": "Karower Chaussee 169C",
-   "CITY": "Berlin",
-   "ZIP": 13125,
-   "DISTRICT": "Pankow",
-   "sectionID": "co",
-   "height": "7",
-   "openFrom": 12,
-   "openTill": 20,
-   "lon": 13.497063517570496,
-   "lat": 52.62487063615305
- },
- {
-   "NAME": "Stonehenge Stralauer Allee",
-   "URL": "",
-   "ADDRESS": "Stralauer Allee",
-   "CITY": "Berlin",
-   "ZIP": 10245,
-   "DISTRICT": "Friedrichshain",
-   "sectionID": "bo",
-   "height": "3,5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.450124859809875,
-   "lat": 52.501975778475476
- },
- {
-   "NAME": "Strelitzer Straße",
-   "URL": "",
-   "ADDRESS": "Strelitzer Straße. 12",
-   "CITY": "Berlin",
-   "ZIP": 10115,
-   "DISTRICT": "Mitte",
-   "sectionID": "bo",
-   "height": "4",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.396164178848267,
-   "lat": 52.53527456563112
- },
- {
-   "NAME": "Südbloc",
-   "URL": "www.suedbloc.de",
-   "ADDRESS": "Großbeerenstr. 2",
-   "CITY": "Berlin",
-   "ZIP": 12107,
-   "DISTRICT": "Mariendorf",
-   "sectionID": "bi",
-   "height": "4",
-   "openFrom": 8,
-   "openTill": 20,
-   "lon": 13.379542,
-   "lat": 52.440076
- },
- {
-   "NAME": "SWK-Block",
-   "URL": "",
-   "ADDRESS": "Grüntaler Str. 25",
-   "CITY": "Berlin",
-   "ZIP": 13357,
-   "DISTRICT": "Wedding",
-   "sectionID": "bo",
-   "height": "4",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.389742970466614,
-   "lat": 52.554346095657344
- },
- {
-   "NAME": "T-Hall (temporary closed)",
-   "URL": "www.t-hall.de",
-   "ADDRESS": "Thiemannstraße 1",
-   "CITY": "Berlin",
-   "ZIP": 12059,
-   "DISTRICT": "Neukölln",
-   "sectionID": "ci",
-   "height": "12",
-   "openFrom": 12,
-   "openTill": 24,
-   "lon": 13.451417684555054,
-   "lat": 52.47942169014486
- },
- {
-   "NAME": "Teltowkanal",
-   "URL": "",
-   "ADDRESS": "Am Kanal",
-   "CITY": "Berlin",
-   "ZIP": 12489,
-   "DISTRICT": "Adlershof",
-   "sectionID": "bo",
-   "height": "5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.560548722743986,
-   "lat": 52.42642883606032
- },
- {
-   "NAME": "Volkspark Friedrichshain",
-   "URL": "",
-   "ADDRESS": "Danziger Str.",
-   "CITY": "Berlin",
-   "ZIP": 10407,
-   "DISTRICT": "Friedrichshain",
-   "sectionID": "bo",
-   "height": "3",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.441262841224669,
-   "lat": 52.528078994964545
- },
- {
-   "NAME": "Wilde Hütte Buckow",
-   "URL": "",
-   "ADDRESS": "Wildhüterweg 2",
-   "CITY": "Berlin",
-   "ZIP": 12353,
-   "DISTRICT": "Neukölln",
-   "sectionID": "co",
-   "height": "7",
-   "openFrom": 17,
-   "openTill": 21,
-   "lon": 13.456685543060303,
-   "lat": 52.42239536934822
- },
- {
-   "NAME": "Wuhletalwächter",
-   "URL": "www.alpinclub-berlin.de",
-   "ADDRESS": "Kemberger Str.",
-   "CITY": "Berlin",
-   "ZIP": 12689,
-   "DISTRICT": "Marzahn",
-   "sectionID": "co",
-   "height": "17,5",
-   "openFrom": 0,
-   "openTill": 24,
-   "lon": 13.581622838973999,
-   "lat": 52.56389342748216
- }
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.332308828830719,52.521641141797055 ]
+    },
+    "properties": {
+    "NAME":"Andachtsboulder Levetzowstrasse",
+    "URL":"",
+    "ADDRESS":"Levetzowstr. 5",
+    "CITY":"Berlin",
+    "ZIP":10555,
+    "DISTRICT":"Moabit",
+    "sectionID":"bo",
+    "height":"2,5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.38558554649353,52.44169901651066 ]
+    },
+    "properties": {
+    "NAME":"Ayers Rock",
+    "URL":"",
+    "ADDRESS":"Richterstraße",
+    "CITY":"Berlin",
+    "ZIP":12105,
+    "DISTRICT":"Tempelhof",
+    "sectionID":"bo",
+    "height":"4",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.409714698791504,52.563529835311925 ]
+    },
+    "properties": {
+    "NAME":"Berta Bloc",
+    "URL":"www.bertablock.de",
+    "ADDRESS":"Mühlenstr. 62",
+    "CITY":"Berlin",
+    "ZIP":13187,
+    "DISTRICT":"Wedding",
+    "sectionID":"bi",
+    "height":"4,5",
+    "openFrom":11,
+    "openTill":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.35536241531372,52.478395783942766 ]
+    },
+    "properties": {
+    "NAME":"Boulderanlage Tempelhofer Weg",
+    "URL":"",
+    "ADDRESS":" Tempelhofer Weg",
+    "CITY":"Berlin",
+    "ZIP":10829,
+    "DISTRICT":"Schöneberg",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.525779247283936,52.51440579458706 ]
+    },
+    "properties": {
+    "NAME":"Boulderbrücke",
+    "URL":"",
+    "ADDRESS":"Marzahner Chaussee",
+    "CITY":"Berlin",
+    "ZIP":10315,
+    "DISTRICT":"Marzahn",
+    "sectionID":"bo",
+    "height":"5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.540767431259155,52.47143597978414 ]
+    },
+    "properties": {
+    "NAME":"Boulderbrücken",
+    "URL":"",
+    "ADDRESS":"Wuhlheide",
+    "CITY":"Berlin",
+    "ZIP":12459,
+    "DISTRICT":"Köpenick",
+    "sectionID":"bo",
+    "height":"5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.428632318973541,52.495098089071305 ]
+    },
+    "properties": {
+    "NAME":"BoulderKlub Kreuzberg",
+    "URL":"www.boulderklub.de",
+    "ADDRESS":"Ohlauer Str. 38",
+    "CITY":"Berlin",
+    "ZIP":10999,
+    "DISTRICT":"Kreuzberg",
+    "sectionID":"bi",
+    "height":"4",
+    "openFrom":8,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.318077027797699,52.48670199637066 ]
+    },
+    "properties": {
+    "NAME":"Boulderworx",
+    "URL":"www.boulderworx.de",
+    "ADDRESS":"Berliner Str. 46",
+    "CITY":"Berlin",
+    "ZIP":10713,
+    "DISTRICT":"Wilmersdorf",
+    "sectionID":"bi",
+    "height":"4",
+    "openFrom":8,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.36563527584076,52.48172172411882 ]
+    },
+    "properties": {
+    "NAME":"Bright Site",
+    "URL":"www.boulder-project.de",
+    "ADDRESS":"Wilhelm-Kabus-Strasse 40",
+    "CITY":"Berlin",
+    "ZIP":10829,
+    "DISTRICT":"Schöneberg",
+    "sectionID":"bi",
+    "height":"4",
+    "openFrom":8,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.476319313049316,52.40283780245277 ]
+    },
+    "properties": {
+    "NAME":"Brücke Rudower Fliess",
+    "URL":"",
+    "ADDRESS":"Klein-Ziethener Weg 9",
+    "CITY":"Berlin",
+    "ZIP":12355,
+    "DISTRICT":"Neukölln",
+    "sectionID":"bo",
+    "height":"5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.56336236000061,52.56356244459821 ]
+    },
+    "properties": {
+    "NAME":"Burgwarte Flämingstrasse",
+    "URL":"",
+    "ADDRESS":"Flämingstrasse",
+    "CITY":"Berlin",
+    "ZIP":12689,
+    "DISTRICT":"Marzahn",
+    "sectionID":"bo",
+    "height":"4",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.362633883953094,52.52847225275161 ]
+    },
+    "properties": {
+    "NAME":"DAV Kletterzentrum",
+    "URL":"www.kletterzentrum.dav-berlin.de",
+    "ADDRESS":"Seydlitzstraße 1",
+    "CITY":"Berlin",
+    "ZIP":10557,
+    "DISTRICT":"Moabit",
+    "sectionID":"ci",
+    "height":"15",
+    "openFrom":10,
+    "openTill":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.454448580741882,52.50713170694858 ]
+    },
+    "properties": {
+    "NAME":"Der Kegel",
+    "URL":"www.derkegel.de",
+    "ADDRESS":"Revaler Str. 99",
+    "CITY":"Berlin",
+    "ZIP":10245,
+    "DISTRICT":"Friedrichshain",
+    "sectionID":"bi",
+    "height":"4",
+    "openFrom":8,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.45445394515991,52.507118646462544 ]
+    },
+    "properties": {
+    "NAME":"Der Kegel",
+    "URL":"www.derkegel.de",
+    "ADDRESS":"Revaler Str. 99",
+    "CITY":"Berlin",
+    "ZIP":10245,
+    "DISTRICT":"Friedrichshain",
+    "sectionID":"ci",
+    "height":"18",
+    "openFrom":10,
+    "openTill":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.540273904800415,52.460690233557465 ]
+    },
+    "properties": {
+    "NAME":"GFK Turm",
+    "URL":"",
+    "ADDRESS":"Am Eichgestell 161",
+    "CITY":"Berlin",
+    "ZIP":12459,
+    "DISTRICT":"Köpenick",
+    "sectionID":"co",
+    "height":"8",
+    "openFrom":8,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.36822360754013,52.50660765190018 ]
+    },
+    "properties": {
+    "NAME":"Grosse Stele Nationalgalerie",
+    "URL":"",
+    "ADDRESS":"Reichpietschufer",
+    "CITY":"Berlin",
+    "ZIP":10785,
+    "DISTRICT":"Tiergarten",
+    "sectionID":"bo",
+    "height":"6",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.384743332862852,52.547411359476804 ]
+    },
+    "properties": {
+    "NAME":"Großer Bunker",
+    "URL":"",
+    "ADDRESS":"Humboldthain",
+    "CITY":"Berlin",
+    "ZIP":13355,
+    "DISTRICT":"Wedding",
+    "sectionID":"co",
+    "height":"15",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.54964554309845,52.46019831103775 ]
+    },
+    "properties": {
+    "NAME":"Holzturm",
+    "URL":"",
+    "ADDRESS":"Am Eichgestell 161",
+    "CITY":"Berlin",
+    "ZIP":12459,
+    "DISTRICT":"Köpenick",
+    "sectionID":"co",
+    "height":"8",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.364691138267517,52.495664739002436 ]
+    },
+    "properties": {
+    "NAME":"Kirchbachspitze",
+    "URL":"www.dav-berlin.de",
+    "ADDRESS":"Alvenslebenstraße",
+    "CITY":"Berlin",
+    "ZIP":10783,
+    "DISTRICT":"Schöneberg",
+    "sectionID":"co",
+    "height":"12,5",
+    "openFrom":8,
+    "openTill":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.387138545513153,52.54411485534667 ]
+    },
+    "properties": {
+    "NAME":"Kleiner Bunker",
+    "URL":"",
+    "ADDRESS":"Gustav - Mayer - Allee",
+    "CITY":"Berlin",
+    "ZIP":13355,
+    "DISTRICT":"Wedding",
+    "sectionID":"co",
+    "height":"8",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.413982093334198,52.531357123371436 ]
+    },
+    "properties": {
+    "NAME":"Kolle 8",
+    "URL":"www.sjc-prenzlauerberg.de",
+    "ADDRESS":"Kollwitzstr. 8",
+    "CITY":"Berlin",
+    "ZIP":10405,
+    "DISTRICT":"Prenzlauer Berg",
+    "sectionID":"co",
+    "height":"12",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.381980657577515,52.548650950609165 ]
+    },
+    "properties": {
+    "NAME":"Magic Mountain",
+    "URL":"www.magicmountain.de",
+    "ADDRESS":"Böttgerstraße 20-26",
+    "CITY":"Berlin",
+    "ZIP":13357,
+    "DISTRICT":"Wedding",
+    "sectionID":"ci",
+    "height":"16",
+    "openFrom":12,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.40426445007324,52.55212814307756 ]
+    },
+    "properties": {
+    "NAME":"Malmöer Straße",
+    "URL":"",
+    "ADDRESS":"Malmöer Str. 12",
+    "CITY":"Berlin",
+    "ZIP":10439,
+    "DISTRICT":"Prenzlauer Berg",
+    "sectionID":"bo",
+    "height":"2,5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.489584,52.491959 ]
+    },
+    "properties": {
+    "NAME":"Ostbloc",
+    "URL":"www.ostbloc.de",
+    "ADDRESS":"Hauptstrasse 13",
+    "CITY":"Berlin",
+    "ZIP":10317,
+    "DISTRICT":"Lichtenberg",
+    "sectionID":"bi",
+    "height":"4,5",
+    "openFrom":10,
+    "openTill":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.35563063621521,52.49440568846478 ]
+    },
+    "properties": {
+    "NAME":"Pallasbunker",
+    "URL":"",
+    "ADDRESS":"Pallasstrasse",
+    "CITY":"Berlin",
+    "ZIP":10781,
+    "DISTRICT":"Schöneberg",
+    "sectionID":"co",
+    "height":"10",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.41492086648941,52.543780460839805 ]
+    },
+    "properties": {
+    "NAME":"Pappelallee",
+    "URL":"",
+    "ADDRESS":"Pappelallee 76",
+    "CITY":"Berlin",
+    "ZIP":10437,
+    "DISTRICT":"Prenzlauer Berg",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.351961374282837,52.55717708400893 ]
+    },
+    "properties": {
+    "NAME":"Schillerpark",
+    "URL":"",
+    "ADDRESS":"Indische Straße",
+    "CITY":"Berlin",
+    "ZIP":13347,
+    "DISTRICT":"Wedding",
+    "sectionID":"bo",
+    "height":"7",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.399583995342255,52.548836886259316 ]
+    },
+    "properties": {
+    "NAME":"Schwerdter Nordwand",
+    "URL":"",
+    "ADDRESS":"Schwerdter Straße",
+    "CITY":"Berlin",
+    "ZIP":10435,
+    "DISTRICT":"Mitte",
+    "sectionID":"co",
+    "height":"15",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.467207849025726,52.51991932533701 ]
+    },
+    "properties": {
+    "NAME":"SE-Block",
+    "URL":"",
+    "ADDRESS":"Samariterstrasse. 21",
+    "CITY":"Berlin",
+    "ZIP":10247,
+    "DISTRICT":"Friedrichshain",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.368237018585205,52.51661259567853 ]
+    },
+    "properties": {
+    "NAME":"Skulpturenpark Tiergarten",
+    "URL":"",
+    "ADDRESS":"John-Forster-Dulles-Allee",
+    "CITY":"Berlin",
+    "ZIP":10557,
+    "DISTRICT":"Tiergarten",
+    "sectionID":"bo",
+    "height":"5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.497063517570496,52.62487063615305 ]
+    },
+    "properties": {
+    "NAME":"Sportjugendclub Buch",
+    "URL":"",
+    "ADDRESS":"Karower Chaussee 169C",
+    "CITY":"Berlin",
+    "ZIP":13125,
+    "DISTRICT":"Pankow",
+    "sectionID":"co",
+    "height":"7",
+    "openFrom":12,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.450124859809875,52.501975778475476 ]
+    },
+    "properties": {
+    "NAME":"Stonehenge Stralauer Allee",
+    "URL":"",
+    "ADDRESS":"Stralauer Allee",
+    "CITY":"Berlin",
+    "ZIP":10245,
+    "DISTRICT":"Friedrichshain",
+    "sectionID":"bo",
+    "height":"3,5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.396164178848267,52.53527456563112 ]
+    },
+    "properties": {
+    "NAME":"Strelitzer Straße",
+    "URL":"",
+    "ADDRESS":"Strelitzer Straße. 12",
+    "CITY":"Berlin",
+    "ZIP":10115,
+    "DISTRICT":"Mitte",
+    "sectionID":"bo",
+    "height":"4",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.379542,52.440076 ]
+    },
+    "properties": {
+    "NAME":"Südbloc",
+    "URL":"www.suedbloc.de",
+    "ADDRESS":"Großbeerenstr. 2",
+    "CITY":"Berlin",
+    "ZIP":12107,
+    "DISTRICT":"Mariendorf",
+    "sectionID":"bi",
+    "height":"4",
+    "openFrom":8,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.389742970466614,52.554346095657344 ]
+    },
+    "properties": {
+    "NAME":"SWK-Block",
+    "URL":"",
+    "ADDRESS":"Grüntaler Str. 25",
+    "CITY":"Berlin",
+    "ZIP":13357,
+    "DISTRICT":"Wedding",
+    "sectionID":"bo",
+    "height":"4",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.451417684555054,52.47942169014486 ]
+    },
+    "properties": {
+    "NAME":"T-Hall (temporary closed)",
+    "URL":"www.t-hall.de",
+    "ADDRESS":"Thiemannstraße 1",
+    "CITY":"Berlin",
+    "ZIP":12059,
+    "DISTRICT":"Neukölln",
+    "sectionID":"ci",
+    "height":"12",
+    "openFrom":12,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.560548722743986,52.42642883606032 ]
+    },
+    "properties": {
+    "NAME":"Teltowkanal",
+    "URL":"",
+    "ADDRESS":"Am Kanal",
+    "CITY":"Berlin",
+    "ZIP":12489,
+    "DISTRICT":"Adlershof",
+    "sectionID":"bo",
+    "height":"5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.441262841224669,52.528078994964545 ]
+    },
+    "properties": {
+    "NAME":"Volkspark Friedrichshain",
+    "URL":"",
+    "ADDRESS":"Danziger Str.",
+    "CITY":"Berlin",
+    "ZIP":10407,
+    "DISTRICT":"Friedrichshain",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.456685543060303,52.42239536934822 ]
+    },
+    "properties": {
+    "NAME":"Wilde Hütte Buckow",
+    "URL":"",
+    "ADDRESS":"Wildhüterweg 2",
+    "CITY":"Berlin",
+    "ZIP":12353,
+    "DISTRICT":"Neukölln",
+    "sectionID":"co",
+    "height":"7",
+    "openFrom":17,
+    "openTill":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.581622838973999,52.56389342748216 ]
+    },
+    "properties": {
+    "NAME":"Wuhletalwächter",
+    "URL":"www.alpinclub-berlin.de",
+    "ADDRESS":"Kemberger Str.",
+    "CITY":"Berlin",
+    "ZIP":12689,
+    "DISTRICT":"Marzahn",
+    "sectionID":"co",
+    "height":"17,5",
+    "openFrom":0,
+    "openTill":24
+    }
+  }
 ]
+}
