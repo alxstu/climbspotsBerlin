@@ -149,8 +149,8 @@
     "DISTRICT":"Wilmersdorf",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":8,
-    "openTill":20
+    "openFrom":9,
+    "openTill":21
     }
   },
   {
@@ -759,6 +759,253 @@
     "height":"17,5",
     "openFrom":0,
     "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.223965,52.285220 ]
+    },
+    "properties": {
+    "NAME":"Kalksteinbrücke wolffring",
+    "URL":"",
+    "ADDRESS":"Wolffring",
+    "CITY":"Berlin",
+    "ZIP":12101,
+    "DISTRICT":"Schöneberg",
+    "sectionID":"bo",
+    "height":"5",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.241517,52.232826 ]
+    },
+    "properties": {
+    "NAME":"Boulderbogen Finchleystrasse",
+    "URL":"",
+    "ADDRESS":"Finchleystrasse",
+    "CITY":"Berlin",
+    "ZIP":12305,
+    "DISTRICT":"Lichtenrade",
+    "sectionID":"bo",
+    "height":"3,2",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.16411,52.271468 ]
+    },
+    "properties": {
+    "NAME":"DAV-Halle Hüttenweg",
+    "URL":"www.dav-berlin.de",
+    "ADDRESS":"Hüttenweg 43",
+    "CITY":"Berlin",
+    "ZIP":14195,
+    "DISTRICT":"Zehlendorf",
+    "sectionID":"ci",
+    "height":"6",
+    "openFrom":10,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.163572,52.26030 ]
+    },
+    "properties": {
+    "NAME":"BoulderBär",
+    "URL":"",
+    "ADDRESS":"Sundgauer Str. ",
+    "CITY":"Berlin",
+    "ZIP":14169,
+    "DISTRICT":"Zehlendorf",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.102647,52.324856 ]
+    },
+    "properties": {
+    "NAME":"B.-Traven Schule",
+    "URL":"www.alpinclub-berlin.de",
+    "ADDRESS":"Recklinghauser Weg 26",
+    "CITY":"Berlin",
+    "ZIP":13583,
+    "DISTRICT":"Spandau",
+    "sectionID":"co",
+    "height":"7",
+    "openFrom":19,
+    "openTill":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.105676,52.322928 ]
+    },
+    "properties": {
+    "NAME":"Boulderwelle Spekteweg",
+    "URL":"",
+    "ADDRESS":"Spekteweg",
+    "CITY":"Berlin",
+    "ZIP":13583,
+    "DISTRICT":"Spandau",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.91558,52.313146 ]
+    },
+    "properties": {
+    "NAME":"Kinderspielplatz Cosmarweg",
+    "URL":"",
+    "ADDRESS":"Cosmarweg",
+    "CITY":"Berlin",
+    "ZIP":13591,
+    "DISTRICT":"Spandau",
+    "sectionID":"bo",
+    "height":"3",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.81313,52.29258 ]
+    },
+    "properties": {
+    "NAME":"Mount Gatow",
+    "URL":"",
+    "ADDRESS":"Potsdamer Chaussee",
+    "CITY":"Berlin",
+    "ZIP":null,
+    "DISTRICT":"Spandau",
+    "sectionID":"co",
+    "height":"10",
+    "openFrom":10,
+    "openTill":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.125727,52.303340 ]
+    },
+    "properties": {
+    "NAME":"Stössenseebrücke",
+    "URL":"",
+    "ADDRESS":"Heerstraße",
+    "CITY":"Berlin",
+    "ZIP":14055,
+    "DISTRICT":"Wilmersdorf",
+    "sectionID":"co",
+    "height":"16",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.144221,52.295886 ]
+    },
+    "properties": {
+    "NAME":"Teufelsberg",
+    "URL":"www.dav-berlin.de",
+    "ADDRESS":"",
+    "CITY":"Berlin",
+    "ZIP":null,
+    "DISTRICT":"Wilmersdorf",
+    "sectionID":"co",
+    "height":"10",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.142425,52.304283 ]
+    },
+    "properties": {
+    "NAME":"Olympiastadion",
+    "URL":"",
+    "ADDRESS":"Olympischer Platz ",
+    "CITY":"Berlin",
+    "ZIP":14053,
+    "DISTRICT":"Westend",
+    "sectionID":"bo",
+    "height":"4",
+    "openFrom":0,
+    "openTill":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.174606,52.305224 ]
+    },
+    "properties": {
+    "NAME":"Jugendclub Charlottenburg",
+    "URL":"www.alpinclub-berlin.de",
+    "ADDRESS":"Schloßstr. 19",
+    "CITY":"Berlin",
+    "ZIP":14059,
+    "DISTRICT":"Charlottenburg",
+    "sectionID":"co",
+    "height":"5",
+    "openFrom":19,
+    "openTill":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.21221,52.355768 ]
+    },
+    "properties": {
+    "NAME":"GFK-Wand",
+    "URL":"www.alpinclub-berlin.de",
+    "ADDRESS":"Königshorster Str.13",
+    "CITY":"Berlin",
+    "ZIP":13439,
+    "DISTRICT":"Reinickendorf",
+    "sectionID":"co",
+    "height":"8",
+    "openFrom":15,
+    "openTill":18
     }
   }
 ]
