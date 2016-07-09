@@ -130,8 +130,8 @@
     "DISTRICT":"Kreuzberg",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":8,
-    "openTill":20
+    "openFrom":10,
+    "openTill":22
     }
   },
   {
@@ -168,8 +168,8 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":8,
-    "openTill":20
+    "openFrom":10,
+    "openTill":23
     }
   },
   {
@@ -244,8 +244,8 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":8,
-    "openTill":20
+    "openFrom":10,
+    "openTill":23
     }
   },
   {
@@ -643,8 +643,8 @@
     "DISTRICT":"Mariendorf",
     "sectionID":"bi",
     "height":"4",
-    "openFrom":8,
-    "openTill":20
+    "openFrom":10,
+    "openTill":23
     }
   },
   {
