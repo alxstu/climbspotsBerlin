@@ -312,16 +312,16 @@
        "coordinates":  [ 13.384743332862852,52.547411359476804 ]
     },
     "properties": {
-    "NAME":"Großer Bunker",
-    "URL":"",
+    "NAME":"Großer Bunker",
+    "URL":"http://www.dav-berlin.de/index.php/humboldtbunker",
     "ADDRESS":"Humboldthain",
     "CITY":"Berlin",
     "ZIP":13355,
     "DISTRICT":"Wedding",
     "sectionID":"co",
     "height":"15",
-    "openFrom":0,
-    "openTill":24
+    "openFrom":10,
+    "openTill":22
     }
   },
   {
@@ -339,8 +339,8 @@
     "DISTRICT":"Köpenick",
     "sectionID":"co",
     "height":"8",
-    "openFrom":0,
-    "openTill":24
+    "openFrom":10,
+    "openTill":20
     }
   },
   {
@@ -351,8 +351,8 @@
     },
     "properties": {
     "NAME":"Kirchbachspitze",
-    "URL":"www.dav-berlin.de",
-    "ADDRESS":"Alvenslebenstraße",
+    "URL":"http://www.dav-berlin.de/index.php/kirchbachspitze",
+    "ADDRESS":"Alvenslebenstraße",
     "CITY":"Berlin",
     "ZIP":10783,
     "DISTRICT":"Schöneberg",
@@ -370,7 +370,7 @@
     },
     "properties": {
     "NAME":"Kleiner Bunker",
-    "URL":"",
+    "URL":"http://www.kletterwiki.de/Kleiner_Bunker",
     "ADDRESS":"Gustav - Mayer - Allee",
     "CITY":"Berlin",
     "ZIP":13355,
@@ -522,15 +522,15 @@
     },
     "properties": {
     "NAME":"Schwerdter Nordwand",
-    "URL":"",
-    "ADDRESS":"Schwerdter Straße",
+    "URL":"http://www.alpinclub-berlin.de/index.php?option=com_content&view=article&id=124&Itemid=653",
+    "ADDRESS":"Schwerdter Straße",
     "CITY":"Berlin",
     "ZIP":10435,
     "DISTRICT":"Mitte",
     "sectionID":"co",
     "height":"15",
-    "openFrom":0,
-    "openTill":24
+    "openFrom":10,
+    "openTill":22
     }
   },
   {
@@ -579,7 +579,7 @@
     },
     "properties": {
     "NAME":"Sportjugendclub Buch",
-    "URL":"",
+    "URL":"http://sjc-buch.de",
     "ADDRESS":"Karower Chaussee 169C",
     "CITY":"Berlin",
     "ZIP":13125,
@@ -731,7 +731,7 @@
     },
     "properties": {
     "NAME":"Wilde Hütte Buckow",
-    "URL":"",
+    "URL":"http://www.sport-fuer-berlin.de/html/wilde_hutte.html",
     "ADDRESS":"Wildhüterweg 2",
     "CITY":"Berlin",
     "ZIP":12353,
@@ -750,7 +750,7 @@
     },
     "properties": {
     "NAME":"Wuhletalwächter",
-    "URL":"www.alpinclub-berlin.de",
+    "URL":"http://www.alpinclub-berlin.de/index.php?option=com_content&view=article&id=123&Itemid=645",
     "ADDRESS":"Kemberger Str.",
     "CITY":"Berlin",
     "ZIP":12689,
@@ -807,7 +807,7 @@
     },
     "properties": {
     "NAME":"DAV-Halle Hüttenweg",
-    "URL":"www.dav-berlin.de",
+    "URL":"http://www.alpinclub-berlin.de/index.php?option=com_content&view=article&id=130&Itemid=1005",
     "ADDRESS":"Hüttenweg 43",
     "CITY":"Berlin",
     "ZIP":14195,
@@ -902,7 +902,7 @@
     },
     "properties": {
     "NAME":"Mount Gatow",
-    "URL":"",
+    "URL":"http://klettern-in-berlin.de/klettern.php?aktion=showone&nr=146",
     "ADDRESS":"Potsdamer Chaussee",
     "CITY":"Berlin",
     "ZIP":14089,
@@ -940,7 +940,7 @@
     },
     "properties": {
     "NAME":"Teufelsberg",
-    "URL":"www.dav-berlin.de",
+    "URL":"http://www.dav-berlin.de/index.php/teufelsberg",
     "ADDRESS":"",
     "CITY":"Berlin",
     "ZIP":14055,
