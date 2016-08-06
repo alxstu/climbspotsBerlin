@@ -985,7 +985,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13245,52.4994444 ]
+       "coordinates":  [ 13.245,52.4994444 ]
     },
     "properties": {
     "NAME":"Teufelsberg",
