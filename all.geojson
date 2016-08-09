@@ -17,6 +17,9 @@
     "DISTRICT":"Moabit",
     "sectionID":"bo",
     "height":"2,5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -37,6 +40,9 @@
     "DISTRICT":"Tempelhof",
     "sectionID":"bo",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -57,6 +63,9 @@
     "DISTRICT":"Wedding",
     "sectionID":"bi",
     "height":"4,5",
+    "numberOfRoutes":"450m²",
+    "grades":"",
+    "info":"",
     "openFrom":11,
     "openTill":23
     }
@@ -77,6 +86,9 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -97,6 +109,9 @@
     "DISTRICT":"Marzahn",
     "sectionID":"bo",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -117,6 +132,9 @@
     "DISTRICT":"Köpenick",
     "sectionID":"bo",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -137,6 +155,9 @@
     "DISTRICT":"Kreuzberg",
     "sectionID":"bi",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":22
     }
@@ -157,6 +178,9 @@
     "DISTRICT":"Wilmersdorf",
     "sectionID":"bi",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":9,
     "openTill":21
     }
@@ -177,6 +201,9 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"bi",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":23
     }
@@ -197,6 +224,9 @@
     "DISTRICT":"Neukölln",
     "sectionID":"bo",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -217,6 +247,9 @@
     "DISTRICT":"Marzahn",
     "sectionID":"bo",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -237,6 +270,9 @@
     "DISTRICT":"Moabit",
     "sectionID":"ci",
     "height":"15",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":23
     }
@@ -257,6 +293,9 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"bi",
     "height":"4",
+    "numberOfRoutes":"500m²",
+    "grades":"",
+    "info":"indoor & outdoor",
     "openFrom":10,
     "openTill":23
     }
@@ -277,6 +316,9 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"ci",
     "height":"18",
+    "numberOfRoutes":"> 25",
+    "grades":"4 - 9",
+    "info":"indoor & outdoor",
     "openFrom":10,
     "openTill":23
     }
@@ -297,6 +339,9 @@
     "DISTRICT":"Köpenick",
     "sectionID":"co",
     "height":"8",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":8,
     "openTill":20
     }
@@ -317,6 +362,9 @@
     "DISTRICT":"Tiergarten",
     "sectionID":"bo",
     "height":"6",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -337,6 +385,9 @@
     "DISTRICT":"Wedding",
     "sectionID":"co",
     "height":"15",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":22
     }
@@ -357,6 +408,9 @@
     "DISTRICT":"Köpenick",
     "sectionID":"co",
     "height":"8",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":20
     }
@@ -377,6 +431,9 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"co",
     "height":"12,5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":8,
     "openTill":21
     }
@@ -397,6 +454,9 @@
     "DISTRICT":"Wedding",
     "sectionID":"co",
     "height":"8",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -417,6 +477,9 @@
     "DISTRICT":"Prenzlauer Berg",
     "sectionID":"co",
     "height":"12",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -437,6 +500,9 @@
     "DISTRICT":"Wedding",
     "sectionID":"ci",
     "height":"16",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":12,
     "openTill":24
     }
@@ -457,6 +523,9 @@
     "DISTRICT":"Prenzlauer Berg",
     "sectionID":"bo",
     "height":"2,5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -477,6 +546,9 @@
     "DISTRICT":"Lichtenberg",
     "sectionID":"bi",
     "height":"4,5",
+    "numberOfRoutes":"830m²",
+    "grades":"2 - 9",
+    "info":"extra kids area",
     "openFrom":10,
     "openTill":23
     }
@@ -497,6 +569,9 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"co",
     "height":"10",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -517,6 +592,9 @@
     "DISTRICT":"Prenzlauer Berg",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -537,6 +615,9 @@
     "DISTRICT":"Wedding",
     "sectionID":"bo",
     "height":"7",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -557,6 +638,9 @@
     "DISTRICT":"Mitte",
     "sectionID":"co",
     "height":"15",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":22
     }
@@ -577,6 +661,9 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"100m²",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -597,6 +684,9 @@
     "DISTRICT":"Tiergarten",
     "sectionID":"bo",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -617,6 +707,9 @@
     "DISTRICT":"Pankow",
     "sectionID":"co",
     "height":"7",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":12,
     "openTill":20
     }
@@ -637,6 +730,9 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"bo",
     "height":"3,5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -657,6 +753,9 @@
     "DISTRICT":"Mitte",
     "sectionID":"bo",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -677,6 +776,9 @@
     "DISTRICT":"Mariendorf",
     "sectionID":"bi",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":23
     }
@@ -697,6 +799,9 @@
     "DISTRICT":"Wedding",
     "sectionID":"bo",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -717,6 +822,9 @@
     "DISTRICT":"Neukölln",
     "sectionID":"ci",
     "height":"12",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":12,
     "openTill":24
     }
@@ -737,6 +845,9 @@
     "DISTRICT":"Adlershof",
     "sectionID":"bo",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -757,6 +868,9 @@
     "DISTRICT":"Friedrichshain",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"600m²",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -777,6 +891,9 @@
     "DISTRICT":"Neukölln",
     "sectionID":"co",
     "height":"7",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":17,
     "openTill":21
     }
@@ -797,6 +914,9 @@
     "DISTRICT":"Marzahn",
     "sectionID":"co",
     "height":"17,5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -817,6 +937,9 @@
     "DISTRICT":"Schöneberg",
     "sectionID":"bo",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -837,6 +960,9 @@
     "DISTRICT":"Lichtenrade",
     "sectionID":"bo",
     "height":"3,2",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -857,6 +983,9 @@
     "DISTRICT":"Zehlendorf",
     "sectionID":"ci",
     "height":"6",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":20
     }
@@ -877,6 +1006,9 @@
     "DISTRICT":"Zehlendorf",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -897,6 +1029,9 @@
     "DISTRICT":"Spandau",
     "sectionID":"co",
     "height":"7",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":19,
     "openTill":21
     }
@@ -917,6 +1052,9 @@
     "DISTRICT":"Spandau",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -937,6 +1075,9 @@
     "DISTRICT":"Spandau",
     "sectionID":"bo",
     "height":"3",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -957,6 +1098,9 @@
     "DISTRICT":"Spandau",
     "sectionID":"co",
     "height":"10",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":10,
     "openTill":20
     }
@@ -977,6 +1121,9 @@
     "DISTRICT":"Wilmersdorf",
     "sectionID":"co",
     "height":"16",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -985,7 +1132,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.245,52.4994444 ]
+       "coordinates":  [ 13.24500000000000,52.4994444 ]
     },
     "properties": {
     "NAME":"Teufelsberg",
@@ -997,6 +1144,9 @@
     "DISTRICT":"Wilmersdorf",
     "sectionID":"co",
     "height":"10",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -1017,6 +1167,9 @@
     "DISTRICT":"Westend",
     "sectionID":"bo",
     "height":"4",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":0,
     "openTill":24
     }
@@ -1037,6 +1190,9 @@
     "DISTRICT":"Charlottenburg",
     "sectionID":"co",
     "height":"5",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":19,
     "openTill":21
     }
@@ -1057,6 +1213,9 @@
     "DISTRICT":"Reinickendorf",
     "sectionID":"co",
     "height":"8",
+    "numberOfRoutes":"",
+    "grades":"",
+    "info":"",
     "openFrom":15,
     "openTill":18
     }
