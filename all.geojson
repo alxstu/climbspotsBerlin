@@ -33,7 +33,7 @@
     "properties": {
     "NAME":"Ayers Rock",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm8.staticflickr.com/7470/28272687734_b2d6f73556_z_d.jpg",
     "ADDRESS":"Richterstraße",
     "CITY":"Berlin",
     "ZIP":12105,
@@ -79,7 +79,7 @@
     "properties": {
     "NAME":"Boulderanlage Tempelhofer Weg",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8507/28274871843_6978920fcb_z_d.jpg",
     "ADDRESS":" Tempelhofer Weg",
     "CITY":"Berlin",
     "ZIP":10829,
@@ -194,7 +194,7 @@
     "properties": {
     "NAME":"Bright Site",
     "URL":"www.boulder-project.de",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8394/28785687392_2a9736f3cc_z_d.jpg",
     "ADDRESS":"Wilhelm-Kabus-Strasse 40",
     "CITY":"Berlin",
     "ZIP":10829,
@@ -539,7 +539,7 @@
     "properties": {
     "NAME":"Ostbloc",
     "URL":"www.ostbloc.de",
-    "IMAGEURL":"https://farm9.staticflickr.com/8735/28724877632_ebe10b129d_z_d.jpg",
+    "IMAGEURL":"https://farm9.staticflickr.com/8735/28724877632_ea12a38789_z_d.jpg",
     "ADDRESS":"Hauptstrasse 13",
     "CITY":"Berlin",
     "ZIP":10317,
@@ -654,7 +654,7 @@
     "properties": {
     "NAME":"SE-Block",
     "URL":"",
-    "IMAGEURL":"https://farm9.staticflickr.com/8781/28228416424_068a938988_z_d.jpg",
+    "IMAGEURL":"https://farm9.staticflickr.com/8781/28228416424_beca2e5c9f_z_d.jpg",
     "ADDRESS":"Samariterstrasse. 21",
     "CITY":"Berlin",
     "ZIP":10247,
@@ -769,7 +769,7 @@
     "properties": {
     "NAME":"Südbloc",
     "URL":"www.suedbloc.de",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8674/28272685464_fda55eeeae_z_d.jpg",
     "ADDRESS":"Großbeerenstr. 2",
     "CITY":"Berlin",
     "ZIP":12107,
@@ -861,7 +861,7 @@
     "properties": {
     "NAME":"Volkspark Friedrichshain",
     "URL":"",
-    "IMAGEURL":"https://farm9.staticflickr.com/8363/28798651445_3c73445318_z_d.jpg",
+    "IMAGEURL":"https://farm9.staticflickr.com/8363/28798651445_6371ba040e_z_d.jpg",
     "ADDRESS":"Danziger Str.",
     "CITY":"Berlin",
     "ZIP":10407,
@@ -930,7 +930,7 @@
     "properties": {
     "NAME":"Kalksteinbrücke wolffring",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8871/28272686694_6a177f60ff_z_d.jpg",
     "ADDRESS":"Wolffring",
     "CITY":"Berlin",
     "ZIP":12101,
@@ -999,7 +999,7 @@
     "properties": {
     "NAME":"BoulderBär",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8790/28785515902_6288c315a9_z_d.jpg",
     "ADDRESS":"Sundgauer Str. ",
     "CITY":"Berlin",
     "ZIP":14169,
@@ -1132,7 +1132,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.24500000000000,52.4994444 ]
+       "coordinates":  [ 13.2450001,52.4994444 ]
     },
     "properties": {
     "NAME":"Teufelsberg",
