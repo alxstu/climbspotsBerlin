@@ -378,7 +378,7 @@
     "properties": {
     "NAME":"Großer Bunker",
     "URL":"www.dav-berlin.de/index.php/humboldtbunker",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8551/29312653664_cc6351fd7e_z_d.jpg",
     "ADDRESS":"Humboldthain",
     "CITY":"Berlin",
     "ZIP":13355,
@@ -447,7 +447,7 @@
     "properties": {
     "NAME":"Kleiner Bunker",
     "URL":"www.kletterwiki.de/Kleiner_Bunker",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8058/29905469516_beeea73186_z_d.jpg",
     "ADDRESS":"Gustav - Mayer - Allee",
     "CITY":"Berlin",
     "ZIP":13355,
@@ -470,7 +470,7 @@
     "properties": {
     "NAME":"Kolle 8",
     "URL":"www.sjc-prenzlauerberg.de",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8423/29939888195_bb1908e675_z_d.jpg",
     "ADDRESS":"Kollwitzstr. 8",
     "CITY":"Berlin",
     "ZIP":10405,
@@ -516,7 +516,7 @@
     "properties": {
     "NAME":"Malmöer Straße",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8434/29905566246_7b4d9dcc08_z_d.jpg",
     "ADDRESS":"Malmöer Str. 12",
     "CITY":"Berlin",
     "ZIP":10439,
@@ -585,7 +585,7 @@
     "properties": {
     "NAME":"Pappelallee",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8438/29856817161_083ea9e963_z_d.jpg",
     "ADDRESS":"Pappelallee 76",
     "CITY":"Berlin",
     "ZIP":10437,
@@ -631,7 +631,7 @@
     "properties": {
     "NAME":"Schwerdter Nordwand",
     "URL":"www.alpinclub-berlin.de/index.php?option=com_content&view=article&id=124&Itemid=653",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8544/29313438673_5df9c541d8_z_d.jpg",
     "ADDRESS":"Schwerdter Straße",
     "CITY":"Berlin",
     "ZIP":10435,
@@ -746,7 +746,7 @@
     "properties": {
     "NAME":"Strelitzer Straße",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm9.staticflickr.com/8070/29905452596_db9277e72d_z_d.jpg",
     "ADDRESS":"Strelitzer Straße. 12",
     "CITY":"Berlin",
     "ZIP":10115,
@@ -792,7 +792,7 @@
     "properties": {
     "NAME":"SWK-Block",
     "URL":"",
-    "IMAGEURL":"",
+    "IMAGEURL":"https://farm6.staticflickr.com/5799/29856756691_54fdb93f3e_z_d.jpg",
     "ADDRESS":"Grüntaler Str. 25",
     "CITY":"Berlin",
     "ZIP":13357,
