@@ -5,29 +5,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 13.332308828830719,52.521641141797055 ]
-    },
-    "properties": {
-    "NAME":"Andachtsboulder Levetzowstrasse",
-    "URL":"",
-    "IMAGEURL":"",
-    "ADDRESS":"Levetzowstr. 5",
-    "CITY":"Berlin",
-    "ZIP":10555,
-    "DISTRICT":"Moabit",
-    "sectionID":"bo",
-    "height":"2,5",
-    "numberOfRoutes":"",
-    "grades":"",
-    "info":"",
-    "openFrom":0,
-    "openTill":24
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 13.38558554649353,52.44169901651066 ]
     },
     "properties": {
